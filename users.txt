@@ -1,0 +1,4 @@
+Rohit rohit@gmail.com 1234567890 M 123456
+Divesh divesh@gmail.com 9874563211 M 147
+Mondal mondal@gmail.com 1234567890 f mondal123
+Makhan makhan@hmail.com 1478523699 m makhan123
